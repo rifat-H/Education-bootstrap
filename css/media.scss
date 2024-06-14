@@ -1,0 +1,1308 @@
+//  Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+  /* header start */
+  header {
+    nav {
+      ul {
+        margin-top: 30px !important;
+
+        li {
+          margin: 0 0;
+          text-align: right;
+          // &:last-child {
+          //     margin: 0 10px;
+          // }
+        }
+      }
+    }
+  }
+
+  .cusmar {
+    margin-left: auto;
+  }
+
+  // banner start
+  .banner_content {
+    margin-top: 149px;
+    margin-bottom: 131px;
+  }
+
+  .banner_content h1 {
+    font-size: 25px;
+  }
+
+  .scroll {
+    margin-bottom: -100px;
+
+    p {
+      font-size: 17px;
+    }
+
+    i {
+      font-size: 50px;
+    }
+  }
+
+  // banner end
+  // education start
+
+  .education {
+    padding: 0 0;
+  }
+
+  .edu_title_container {
+    margin-top: 240px;
+
+    h1 {
+      font-size: 20px;
+      margin-bottom: 25px;
+    }
+
+    hr {
+      width: 250px;
+      margin-bottom: 25px;
+    }
+  }
+
+  .rowcontainer {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      margin-top: 15px;
+      font-size: 16px;
+    }
+
+    // img {}
+  }
+
+  // education end
+
+  // education2
+
+  .container2 {
+    img {
+      margin-left: 25px;
+    }
+
+    p {
+      font-size: 20px;
+    }
+  }
+
+  // education2 end
+
+  // featured start
+  .featured_container1 {
+    img {
+      display: block;
+    }
+  }
+  // featured start
+
+  //moments start
+
+  .row1_container {
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+  .row3_container {
+    margin-top: 10px;
+  }
+
+  //moments end
+
+  //teachers start
+
+  .teachers {
+    padding: 40px;
+  }
+
+  .teacher_wrapper1 {
+    i {
+      font-size: 60px;
+      line-height: 36px;
+    }
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    p {
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 15px;
+
+      &:last-of-type {
+        font-size: 14px;
+        line-height: 24px;
+        color: #1ec0ff;
+      }
+    }
+
+    h1 {
+      font-size: 23px;
+      letter-spacing: 0;
+      margin-top: 50px;
+    }
+
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+  .teacher_wrapper3 {
+    text-align: center;
+    margin-top: 10px;
+  }
+  //teachers end
+
+  //grey start
+
+  .grey {
+    padding: 40px 0;
+  }
+
+  .grey_wrapper1 {
+    h1 {
+      font-size: 30px;
+      letter-spacing: 3px;
+      line-height: 36px;
+    }
+  }
+
+  .grey_wrapper2 {
+    line-height: 36px;
+
+    h2 {
+      font-size: 40px;
+      letter-spacing: 6px;
+    }
+
+    p {
+      font-size: 20px;
+      letter-spacing: 1px;
+    }
+
+    img {
+      position: absolute;
+      bottom: 31px;
+      left: 70px;
+    }
+  }
+
+  //grey end
+  .contact {
+    background-color: white;
+    text-align: center;
+  }
+
+  .footwrapper1 ul li a {
+    font-size: 14px;
+  }
+
+  .contact_wrapper2 hr,
+  .contact_wrapper3 hr,
+  .contact_wrapper4 hr {
+    margin-left: 46px !important;
+  }
+}
+
+//  Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header start */
+  header {
+    nav {
+      ul {
+        margin-top: 30px !important;
+
+        li {
+          margin: 0 0;
+          text-align: right;
+        }
+      }
+    }
+  }
+
+  .cusmar {
+    margin-left: auto;
+  }
+
+  /* header start */
+
+  // banner start
+  .banner_content {
+    margin-top: 229px;
+    margin-bottom: 131px;
+  }
+
+  .banner_content h1 {
+    font-size: 28px;
+  }
+
+  .scroll {
+    margin-bottom: -100px;
+
+    p {
+      font-size: 17px;
+    }
+
+    i {
+      font-size: 50px;
+    }
+  }
+
+  // banner end
+
+  // education start
+
+  .education {
+    padding: 0 0;
+  }
+
+  .edu_title_container {
+    margin-top: 160px;
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 25px;
+    }
+
+    hr {
+      width: 250px;
+      margin-bottom: 25px;
+    }
+  }
+
+  .rowcontainer {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      margin-top: 15px;
+      font-size: 16px;
+    }
+
+    // img {}
+  }
+
+  .rowcontainer2 {
+    margin-top: 50px;
+  }
+
+  // education end
+
+  // education2
+
+  .education2 {
+    padding: 10px 0;
+  }
+
+  .container2 {
+    img {
+      margin-left: 0;
+    }
+
+    p {
+      font-size: 20px;
+      display: inline-block;
+    }
+  }
+
+  .mbot {
+    margin-bottom: 45px;
+  }
+  // education end
+
+  //moments start
+
+  .row1_container {
+    hr {
+      margin-bottom: 40px;
+    }
+  }
+
+  .row3_container {
+    margin-top: 30px;
+  }
+
+  //moments end
+
+  //teachers start
+
+  .teachers {
+    padding: 45px;
+  }
+
+  .teacher_wrapper1 {
+    i {
+      font-size: 60px;
+      line-height: 36px;
+    }
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    p {
+      font-size: 17px;
+      letter-spacing: 0;
+      line-height: 27px;
+      margin-top: 15px;
+
+      &:last-of-type {
+        font-size: 14px;
+        line-height: 24px;
+        color: #1ec0ff;
+      }
+    }
+
+    h1 {
+      font-size: 25px;
+      letter-spacing: 1px;
+      margin-top: 65px;
+    }
+
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+  .teacher_wrapper3 {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  //teachers end
+
+  //grey start
+
+  .grey {
+    padding: 40px 0;
+  }
+
+  .grey_wrapper1 {
+    h1 {
+      font-size: 30px;
+      letter-spacing: 3px;
+      line-height: 36px;
+    }
+  }
+
+  .grey_wrapper2 {
+    line-height: 36px;
+
+    h2 {
+      font-size: 40px;
+      letter-spacing: 6px;
+    }
+
+    p {
+      font-size: 20px;
+      letter-spacing: 1px;
+    }
+
+    img {
+      position: absolute;
+      bottom: 32px;
+      left: 171px;
+    }
+  }
+
+  //grey end
+
+  //contact start
+
+  .contact {
+    padding-top: 50px;
+    padding-bottom: 110px;
+    background-color: white;
+  }
+
+  .contact_wrapper1 {
+    margin-top: 10px;
+    text-align: center;
+
+    i {
+      font-weight: bold;
+      margin-right: 6px;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 26px;
+    }
+  }
+
+  .mtop3 {
+    margin-top: 180px;
+  }
+
+  .contact_wrapper2 {
+    text-align: center;
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      margin-top: 40px;
+    }
+
+    hr {
+      width: 200px;
+      margin: 20px auto;
+    }
+  }
+
+  .contact_wrapper3 {
+    text-align: center;
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 40px;
+    }
+
+    hr {
+      border-bottom: 8px dotted;
+      width: 200px;
+      margin: 20px auto;
+    }
+
+    p {
+      font-size: 14px;
+      line-height: 25px;
+    }
+    i {
+      margin-right: 6px;
+    }
+  }
+
+  .contact_wrapper4 {
+    text-align: center;
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 40px;
+    }
+    hr {
+      width: 200px;
+      margin: 20px auto;
+    }
+    p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+  }
+
+  //contact end
+}
+
+//  Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header start */
+  header {
+    nav {
+      ul {
+        margin-top: 30px !important;
+
+        li {
+          margin: 0 0;
+          text-align: right;
+        }
+      }
+    }
+  }
+  .cusmar {
+    margin-left: auto;
+  }
+
+  /* header start */
+
+  // banner start
+  .banner_content {
+    margin-top: 206px;
+    margin-bottom: 145px;
+  }
+
+  .banner_content h1 {
+    font-size: 40px;
+  }
+
+  .scroll {
+    margin-bottom: -100px;
+
+    p {
+      font-size: 17px;
+    }
+
+    i {
+      font-size: 50px;
+    }
+  }
+
+  // banner end
+
+  // education start
+  .education {
+    padding: 0 0;
+  }
+
+  .edu_title_container {
+    margin-top: 180px;
+
+    h1 {
+      margin-bottom: 25px;
+    }
+
+    hr {
+      width: 250px;
+      margin-bottom: 25px;
+    }
+  }
+
+  .rowcontainer {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      margin-top: 15px;
+      font-size: 16px;
+    }
+
+    img {
+      width: 210px;
+    }
+  }
+
+  .rowcontainer2 {
+    margin-top: 70px;
+  }
+
+  // education end
+
+  // education2
+
+  .education2 {
+    padding: 20px 0;
+  }
+
+  .container2 {
+    img {
+      margin-left: 0;
+    }
+
+    p {
+      font-size: 20px;
+    }
+  }
+  // education2 end
+
+  //features start
+
+  .cusfooter {
+    p {
+      font-size: 15px;
+      line-height: 30px;
+    }
+  }
+
+  .mot {
+    margin-bottom: 40px;
+  }
+  //features end
+
+  //moments start
+
+  .row1_container {
+    hr {
+      margin-bottom: 40px;
+    }
+  }
+  .row3_container {
+    margin-top: 50px;
+  }
+
+  //moments end
+
+  //teachers start
+
+  .teachers {
+    padding: 55px;
+  }
+
+  .teacher_wrapper1 {
+    i {
+      font-size: 60px;
+      line-height: 36px;
+    }
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    p {
+      font-size: 17px;
+      letter-spacing: 0;
+      line-height: 27px;
+      margin-top: 15px;
+
+      &:last-of-type {
+        font-size: 14px;
+        line-height: 24px;
+        color: #1ec0ff;
+      }
+    }
+
+    h1 {
+      font-size: 25px;
+      letter-spacing: 1px;
+      margin-top: 80px;
+    }
+
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+  .teacher_wrapper2 {
+    margin-top: 40px;
+  }
+
+  .teacher_wrapper3 {
+    h4 {
+      font-size: 22px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    h5 {
+      font-size: 16px;
+      line-height: 36px;
+    }
+
+    hr {
+      margin: 5px 0;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 25px;
+      margin-bottom: 5px;
+
+      &:last-of-type {
+        font-size: 16px;
+        letter-spacing: 2px;
+        line-height: 36px;
+      }
+    }
+
+    ul {
+      margin-bottom: 5px;
+
+      li {
+        margin-right: 15px !important;
+
+        i {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  //teachers end
+
+  .newswrapper3 {
+    margin-left: 26px;
+    margin-top: 13px;
+  }
+
+  //grey start
+
+  .grey {
+    padding: 40px 0;
+  }
+
+  .grey_wrapper1 {
+    h1 {
+      font-size: 30px;
+      letter-spacing: 3px;
+      line-height: 36px;
+    }
+  }
+
+  .grey_wrapper2 {
+    line-height: 36px;
+
+    h2 {
+      font-size: 40px;
+      letter-spacing: 6px;
+    }
+
+    p {
+      font-size: 20px;
+      letter-spacing: 1px;
+    }
+
+    img {
+      position: absolute;
+      bottom: 31px;
+      left: 5px;
+    }
+  }
+
+  //grey end
+
+  //contact start
+
+  .contact {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+
+  .contact_wrapper1 {
+    margin-top: 10px;
+    i {
+      font-weight: bold;
+      margin-right: 6px;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 26px;
+    }
+  }
+
+  .mtop3 {
+    margin-top: 180px;
+  }
+
+  .contact_wrapper2 {
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 40px;
+    }
+
+    hr {
+      width: 160px;
+      margin-left: 0;
+    }
+  }
+
+  .contact_wrapper3 {
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 40px;
+    }
+
+    hr {
+      width: 160px;
+      margin-left: 0;
+    }
+
+    p {
+      font-size: 14px;
+      line-height: 25px;
+    }
+    i {
+      margin-right: 6px;
+    }
+  }
+
+  .contact_wrapper4 {
+    position: relative;
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 40px;
+    }
+    hr {
+      width: 160px;
+      margin-left: 0;
+    }
+    p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+  }
+
+  //contact end
+}
+
+//  Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* header start */
+  header {
+    nav {
+      ul {
+        margin-top: 30px !important;
+
+        li {
+          margin: 0 0;
+          text-align: right;
+          // &:last-child {
+          //     margin: 0 10px;
+          // }
+        }
+      }
+    }
+  }
+
+  .cusmar {
+    margin-left: auto;
+  }
+
+  // search
+  .searchbar:hover > .search_input {
+    width: 70px;
+  }
+
+  // search
+  /* header end */
+
+  // banner start
+  .banner_content {
+    margin-top: 210px;
+    margin-bottom: 220px;
+  }
+
+  .scroll {
+    margin-bottom: -70px;
+
+    p {
+      font-size: 17px;
+    }
+
+    i {
+      font-size: 50px;
+    }
+  }
+
+  // banner end
+
+  // education start
+  .education {
+    padding: 30px 0;
+  }
+
+  .edu_title_container {
+    margin-top: 150px;
+
+    h1 {
+      margin-bottom: 25px;
+    }
+
+    hr {
+      width: 250px;
+      margin-bottom: 25px;
+    }
+  }
+
+  .rowcontainer {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      margin-top: 15px;
+      font-size: 16px;
+    }
+
+    // img {}
+  }
+
+  .rowcontainer2 {
+    margin-top: 40px;
+  }
+
+  // education end
+
+  // education2
+
+  .education2 {
+    padding: 30px 0;
+  }
+
+  .container2 {
+    img {
+      margin-left: 5px;
+    }
+
+    p {
+      font-size: 20px;
+    }
+  }
+  // education2 end
+
+  //features start
+
+  .cusfooter {
+    p {
+      font-size: 15px;
+      line-height: 30px;
+    }
+  }
+
+  .mot {
+    margin-bottom: 40px;
+  }
+  //features end
+
+  //moments start
+
+  .row1_container {
+    hr {
+      margin-bottom: 50px;
+    }
+  }
+
+  .row3_container {
+    margin-top: 70px;
+  }
+
+  //moments end
+
+  //teachers start
+
+  .teachers {
+    padding: 65px;
+  }
+
+  .teacher_wrapper1 {
+    i {
+      font-size: 60px;
+      line-height: 36px;
+    }
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    p {
+      font-size: 17px;
+      letter-spacing: 1px;
+      line-height: 29px;
+      margin-top: 15px;
+
+      &:last-of-type {
+        font-size: 14px;
+        line-height: 24px;
+        color: #1ec0ff;
+      }
+    }
+
+    h1 {
+      font-size: 28px;
+      letter-spacing: 2px;
+      margin-top: 80px;
+    }
+
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+  .teacher_wrapper2 {
+    margin-top: 40px;
+  }
+
+  .teacher_wrapper3 {
+    h4 {
+      font-size: 24px;
+      letter-spacing: 2px;
+      line-height: 36px;
+    }
+
+    h5 {
+      font-size: 16px;
+      line-height: 36px;
+    }
+
+    hr {
+      margin: 5px 0;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 27px;
+
+      &:last-of-type {
+        font-size: 16px;
+        letter-spacing: 2px;
+        line-height: 36px;
+      }
+    }
+
+    ul {
+      li {
+        margin-right: 15px !important;
+
+        i {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  //teachers end
+
+  //grey start
+
+  .grey {
+    padding: 40px 0;
+  }
+
+  .grey_wrapper1 {
+    h1 {
+      font-size: 30px;
+      letter-spacing: 3px;
+      line-height: 36px;
+    }
+  }
+
+  .grey_wrapper2 {
+    line-height: 36px;
+
+    h2 {
+      font-size: 50px;
+      letter-spacing: 6px;
+    }
+
+    p {
+      font-size: 24px;
+      letter-spacing: 2px;
+    }
+
+    img {
+      position: absolute;
+      bottom: 33px;
+      left: 27px;
+    }
+  }
+
+  //grey end
+
+  //news start
+
+  .news {
+    padding: 40px 0;
+  }
+
+  .mtop {
+    margin-top: 70px;
+  }
+
+  .newswrapper1 {
+    h1 {
+      font-size: 27px;
+      letter-spacing: 2px;
+      line-height: 30px;
+    }
+
+    hr {
+      //margin-left: 0;
+      margin: 0 auto;
+    }
+  }
+
+  .newswrapper2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+
+    h1 {
+      font-size: 48px;
+      line-height: 36px;
+      padding-top: 14px;
+      margin-left: 29px;
+    }
+
+    p {
+      font-size: 18px;
+      letter-spacing: 2px;
+      line-height: 36px;
+      margin-left: 31px;
+    }
+  }
+
+  .newswrapper3 {
+    margin-left: 15px;
+    margin-top: 13px;
+
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 32px;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 32px;
+      word-spacing: 2px;
+    }
+  }
+
+  .one {
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    font-weight: 300;
+  }
+
+  .two {
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    color: #fb9130;
+    font-weight: bold;
+  }
+
+  .news_content {
+    h4 {
+      font-size: 22px;
+      letter-spacing: 1px;
+      line-height: 21px;
+      font-weight: bold;
+    }
+  }
+
+  .mtop2 {
+    margin-top: 40px;
+  }
+
+  //news end
+
+  //contact start
+
+  .contact {
+    padding-top: 50px;
+    padding-bottom: 60px;
+  }
+
+  .contact_wrapper1 {
+    margin-top: 10px;
+
+    i {
+      font-weight: bold;
+      margin-right: 6px;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 26px;
+    }
+  }
+
+  .mtop3 {
+    margin-top: 180px;
+  }
+
+  .contact_wrapper2 {
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 40px;
+    }
+
+    hr {
+      width: 200px;
+      margin-left: 0;
+    }
+  }
+
+  .contact_wrapper3 {
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 40px;
+    }
+
+    hr {
+      width: 200px;
+      margin-left: 0;
+    }
+
+    p {
+      font-size: 14px;
+      line-height: 25px;
+    }
+    i {
+      margin-right: 6px;
+    }
+  }
+
+  .contact_wrapper4 {
+    position: relative;
+    h4 {
+      font-size: 22px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 40px;
+    }
+    hr {
+      width: 200px;
+      margin-left: 0;
+    }
+    p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+  }
+
+  //contact end
+
+  //footer start
+
+  footer {
+    padding-top: 34.5px;
+    padding-bottom: 5.5px;
+  }
+
+  .footwrapper1 {
+    ul {
+      li {
+        a {
+          font-size: 17px;
+        }
+      }
+    }
+  }
+
+  .footwrapper2 {
+    p {
+      font-size: 14px;
+    }
+  }
+
+  //footer end
+}
+
+//  Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+}

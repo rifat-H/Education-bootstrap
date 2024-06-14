@@ -1,0 +1,39 @@
+Problems
+================
+->navbar menu hover
+->Can't type in searchbar(change search in dropbox)
+
+todo
+=====================
+->set padding pattern in every section correct and responsive
+->comment everywhere
+->make scss shorter
+
+
+
+icons
+==========
+<i class="fas fa-user"></i>
+<i class="fas fa-search"></i>
+<i class="fas fa-long-arrow-alt-down"></i>
+<i class="fas fa-check"></i>
+<i class="fas fa-mobile-alt"></i>
+<i class="far fa-envelope"></i>
+<i class="fas fa-map-marker-alt"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-google-plus-g"></i>
+<i class="fab fa-tumblr"></i>
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-pinterest-p"></i>
+<i class="fab fa-vimeo-v"></i>
+<i class="fas fa-rss"></i>
+<i class="far fa-clock"></i>
+<i class="far fa-calendar-alt"></i>
+<i class="fas fa-reply"></i>
+
+
+fonts
+======================
+
+font-family: 'Lato', sans-serif;
+font-family: 'Dosis', sans-serif;
